@@ -1,5 +1,5 @@
 //
-//  main.c
+//  my_strlen.c
 //  break-away-coding-interviews
 //
 //  Created by Vaibhav Chauhan on 3/5/16.
